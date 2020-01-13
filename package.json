@@ -1,0 +1,6 @@
+{
+  "name": "@thume/editorpackagetest",
+  "version": "2.1.0",
+  "repository": "THume/editorpackagetest",
+  "main": "test.js"
+}
